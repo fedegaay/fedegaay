@@ -5,8 +5,8 @@
 
 Aquí hay algunas ideas para comenzar:
 -->
+- 🌱 **Soy Desarrolador Web Full Stack graduado de Digital House.**
 - 🔭 **Actualmente estoy trabajando como Operador de Centro de Monitoreo y Diagnóstico en Ternium.**
-- 🌱 **Actualmente estoy aprendiendo para ser Desarrolador Web Full Stack.**
 - 📫 **Cómo contactarme:**  
        - **Celular:** 0336-154378383 <br>
        - **Correo electronico:** fede.gay.fg@gmail.com <br>
